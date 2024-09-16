@@ -1,6 +1,4 @@
-## MLOPS with Docker
-
-# Flask MLOps Project
+# Dockerized Flask MLOps Project
 
 This project is a simple website built using Flask. The project is containerized with Docker and can be easily deployed using DockerHub.
 
